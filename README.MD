@@ -1,3 +1,2 @@
 Activity1
-Activity1
 Activity2
